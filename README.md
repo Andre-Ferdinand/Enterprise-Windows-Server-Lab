@@ -36,6 +36,7 @@ Phase 2: Windows Server 2025 OS Installation
 **Windows Server 2025 Standard Evaluation (Desktop Experience)**
 Note: Selecting the "Desktop Experience" variation ensures you install the full Server Manager graphical user interface rather than the headless Server Core command-line interface.
  6. Accept the license terms, choose **Custom: Install Windows only (advanced)**, and select the unallocated virtual drive to proceed with the file copy and installation.
+![Windows Server 2025 OS Installation](Images/Windows-Server-2025-OS-Installation.png)
 
 Phase 3: First Boot & Authentication Trap Handling
  1. Once installation completes, the VM will restart and present the Windows Administrator password setup screen. Create a secure local administrator password.
