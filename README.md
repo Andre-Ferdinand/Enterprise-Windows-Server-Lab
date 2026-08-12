@@ -25,6 +25,7 @@ Unattended Installation: Skip/bypass the automated setup to configure settings m
  4. Allocate system memory (**Base Memory: 4096 MB**) and processor cores (**1 CPU**).
  5. Configure the virtual hard disk by leaving it on its default setting (**Dynamically Allocated VDI file**).
  6. Review the summary page and click **Finish**.
+![Virtual Machine Creation in VirtualBox](Images/Virtual-Machine-Creation-in-VirtualBox.png)
 
 Phase 2: Windows Server 2025 OS Installation
  1. Double-click the **Windows Server 2025** VM in your VirtualBox list to boot it up.
